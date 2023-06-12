@@ -1,0 +1,66 @@
+.second-section{
+    height: 957px;
+    width: 1440px;
+    padding-top: 40px;
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-bottom: 60px;
+    justify-content: center;
+}
+.second-section-heading-container{
+    position: absolute;
+    height: 230px;
+    padding-left:250px ;
+    width: 1300px;
+}
+.second-section-heading-container-content{
+    width: 700px;
+    height: 230px;
+}
+
+.second-section-heading{
+    margin-left: 300px;
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 22px;
+    color: #0057FF;
+}
+.second-section-h-first{
+    margin-left: 193px;
+}
+.second-section-h-second{
+    margin-left: 116px;
+    padding-bottom: 39px;
+}
+.second-section-h-content{
+    font-size: 40px;
+    line-height: 48px;
+    letter-spacing: 1px;
+}
+.second-section-content-p{
+    width: 693px;
+    height: 52px;
+}
+.second-section-p{
+    width: 693px;
+    text-align: center;
+    font-size: 16px;
+    line-height: 26px;
+}
+.second-section-content-container{
+    width: 1200px;
+    height: 800px;
+    background: url(/images/second-section-img.png) no-repeat 0px 300px/1200px 400px
+}
+.second-section-underlink{
+    align-items: center;
+    margin-left: 600px;
+    margin-top: -150px;
+}
+.link-style{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 26px;
+    font-family: 'Oswald';
+}
+

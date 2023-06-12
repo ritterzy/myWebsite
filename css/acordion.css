@@ -1,0 +1,82 @@
+.accordion-main-container{
+    margin-top: 200px;
+    padding-left: 120px;
+}
+.accordion-main{
+    height: 688px;
+    width: 1200px;
+    gap: 120px;
+    display: flex;
+    flex-direction: row;
+}
+.accordion-right{
+    width: 540px;
+    height: 608px;
+    margin-top: 20px;
+}
+.accordion-left{
+    height: 648px;
+    width: 594px;
+    margin-top:39.7px ;
+    z-index: 2;
+    background: url(/images/accordion-image.png) no-repeat 0px 10px / 540px 608.59px ;
+}
+
+.accordion{
+    width: 500px;
+    margin-top: 57px;
+    border: 1px solid #E7E7E7;
+    border-radius: 20px;
+    overflow: hidden;
+}
+.accordion-button{
+    display: flex;
+    width: 100%;
+    padding: 30px;
+    justify-content: space-between;
+    text-align: left;
+    text-transform: uppercase;
+}
+.accordion-collapse{
+    height: 0;
+    visibility: hidden;
+    opacity: 0;
+    transition: height 1s;
+
+}
+.accordion-sign{
+    color: #0057FF;
+}
+.accordion-button:hover{
+    cursor: pointer;
+    background-color:grey;
+}
+.accordion-button:active{
+    background-color: rgb(231, 215, 215);
+}
+.accordion-show{
+    visibility: visible;
+    opacity: 1;
+    height: 50px;
+}
+.accordion-body{
+    visibility: visible;
+    padding: 10px 30px;
+    opacity: 1;
+    height: 100px;
+    font-size: small;
+}
+
+.accordion-h2{
+    width: 482px;
+    height: 100px;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 50px;
+    letter-spacing: 1px;
+}
+.accordion-p{
+    margin-top: 48px;
+    font-size: 15px;
+    font-family: 'Roboto';
+}

@@ -1,0 +1,16 @@
+.companys-list{
+    width: 1200px;
+    height: 168px;
+    margin-left: 120px;
+    padding-left: 13px;
+    padding-top: 63px;
+    padding-bottom: 61px;
+    padding-right: 13px;
+    border-top: 1px solid  #D9DCEC;
+    border-bottom: 1px solid  #D9DCEC;
+}
+.companys-shape{
+    width: 1174px;
+    height: 44px;
+    background: url(/images/companys-logo.png) no-repeat 0 0 / cover ;
+}

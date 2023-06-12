@@ -1,0 +1,31 @@
+.meet-the-teem{
+    position: absolute;
+    width: 1200px;
+    height: 236px;
+    margin-left: 120px;
+    margin-top: 200px;
+}
+.meet-the-teem-container{
+    margin-left: 200px;
+    width: 800px;height: 236px;
+}
+.meet-the-teem-heading{
+    margin-left: 318px;
+    padding-bottom: 23px;
+}
+.meet-the-teem-p{
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 34px;
+    text-align: center;
+}
+.position{
+    margin-top: 51px;
+    margin-left: 305px;
+}
+.bg-image{
+    position: relative;
+    height: 550px;
+    background: url(/images/big-triangle.png) no-repeat 
+    450px 50px / 500px 500px ;
+}
